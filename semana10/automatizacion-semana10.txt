@@ -1,0 +1,9 @@
+¿Qué evento activa el flujo?
+Nuevo reporte registrado.
+
+¿Qué mensaje se enviaría a Telegram? 
+Mensajes de caracter informativos, de humor, afectivos y emocionales.
+
+¿Qué información no debería enviarse por seguridad?
+nombres completos, documentos de identidad, direcciones, teléfonos, claves 
+o datos sensibles.

@@ -1,0 +1,9 @@
+¿Qué 2 tareas del backlog harías primero?
+Primeramente velaria porque las novedades se registren de forma correcta y luego revisaria cada 
+evidencia del caso para llevar un control o seguimiento. 
+
+¿Por qué son las más importantes?
+Porque sin registro de novedades no existiria un seguimiento y mucho menos una solucion. 
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Que cumpla por lo menos con tres requisitos: Funciona, fue probada y quedó registrada en el Git.
