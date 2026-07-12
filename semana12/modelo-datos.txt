@@ -1,0 +1,16 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+La causa sirve para almacenar datos o informacion.
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+
+El apoyo sirve para registrar cada usuario que decide apoyar la causa. 
+
