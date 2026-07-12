@@ -1,0 +1,6 @@
+Un ciudadano registra una nueva causa en el sistema.
+La información de la causa se almacena en la base de datos.
+Otros ciudadanos pueden brindar su apoyo a esa causa.
+El sistema registra y contabiliza la cantidad de apoyos recibidos.
+Finalmente, el sistema genera un documento en formato PDF con la información de la petición.
+

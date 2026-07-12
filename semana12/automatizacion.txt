@@ -1,0 +1,4 @@
+Evento: Novedad registrada
+Mensaje: “Nueva novedad creada en la plataforma”
+Información que no debe enviarse: cédulas, direcciones, 
+comentarios sensibles o datos personales.
